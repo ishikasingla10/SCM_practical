@@ -1,0 +1,5 @@
+none_modules/
+*.log
+.env
+*.class
+*.0
